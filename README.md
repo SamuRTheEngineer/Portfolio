@@ -17,7 +17,7 @@ Welcome to my **React Portfolio**! This project showcases my skills, projects, a
 To run this project locally:
 
 1. **Clone the repository**:
-   git clone https://github.com/yourusername/react-portfolio.git
+   git clone https://github.com/SamuRTheEngineer/Portfolio.git
 2. **Navigate to the project folder**:
    cd react-portfolio
 3. **Install dependencies**:
