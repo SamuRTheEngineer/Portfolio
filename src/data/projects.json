@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Library",
+      "imageSrc": "projects/project.png",
+      "description": "A system made to manage the information of a library.",
+      "skills": ["Java"],
+      "demo": "projects/project2.jpg",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "CVT Transmission",
+      "imageSrc": "projects/project.png",
+      "description": "A simulation of how CVT Transmission works.",
+      "skills": ["AutoCAD", "Mechanics"],
+      "demo": "projects/CVT.jpg",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "EIA Store",
+      "imageSrc": "projects/project.png",
+      "description": "The system created is an automation of the EIA's shop.",
+      "skills": ["Java"],
+      "demo": "projects/tienda.jpg",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "EIA Final Grade Calculator",
+      "imageSrc": "projects/project.png",
+      "description": "A Calculator of the required grade in the final examn to pass the subject.",
+      "skills": ["Java"],
+      "demo": "projects/Calculator.png",
+      "source": "https://www.github.com"
+    }
+  ]

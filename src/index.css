@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Outfit", Arial, Helvetica, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  clip-path: circle(50% at 50% 50%);
+}
