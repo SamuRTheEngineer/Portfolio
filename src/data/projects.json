@@ -4,6 +4,7 @@
       "imageSrc": "projects/project.png",
       "description": "A system made to manage the information of a library.",
       "skills": ["Java"],
+      "role": "Solo project.",
       "demo": "projects/project2.jpg",
       "source": "https://www.github.com"
     },
@@ -12,6 +13,7 @@
       "imageSrc": "projects/project.png",
       "description": "A simulation of how CVT Transmission works.",
       "skills": ["AutoCAD", "Mechanics"],
+      "role": "Mathematical modeling and analysis.",
       "demo": "projects/CVT.jpg",
       "source": "https://www.github.com"
     },
@@ -20,6 +22,7 @@
       "imageSrc": "projects/project.png",
       "description": "The system created is an automation of the EIA's shop.",
       "skills": ["Java"],
+      "role": "Leader.",
       "demo": "projects/tienda.jpg",
       "source": "https://www.github.com"
     },
@@ -28,6 +31,7 @@
       "imageSrc": "projects/project.png",
       "description": "A Calculator of the required grade in the final examn to pass the subject.",
       "skills": ["Java"],
+      "role": "Leader.",
       "demo": "projects/Calculator.png",
       "source": "https://www.github.com"
     }

@@ -11,6 +11,7 @@
   background-color: var(--color-secondary);
   display: flex;
   flex-direction: row;
+  align-items: center;
   justify-content: space-evenly;
   width: 100vw;
   padding: 58px 10%;

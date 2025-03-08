@@ -22,6 +22,13 @@ export const Contact = () => {
           <a href="https://www.superprof.co/asesorias-particulares-matematicas-anos-dando-clases-teniendo-enfoque-comprension-real-sobre-los-temas.html">superprof.com/SamuelRamirez</a>
         </li>
         <li className={styles.link}>
+          <img
+            src={"/assets/contact/linkedinIcon.png"}
+            alt="LinkedIn icon"
+          />
+          <a href="https://www.linkedin.com">linkedin.com</a>
+        </li>
+        <li className={styles.link}>
           <img src={"/assets/contact/githubIcon.png"} alt="Github icon" />
           <a href="https://github.com/SamuRTheEngineer">github.com/SamuRTheEngineer</a>
         </li>

@@ -3,7 +3,7 @@ import React from "react";
 import styles from "./ProjectCard.module.css";
 
 export const ProjectCard = ({
-  project: { title, imageSrc, description, skills, demo, source },
+  project: { title, imageSrc, description, skills, role, demo, source },
 }) => {
   return (
     <div className={styles.container}>
@@ -14,6 +14,8 @@ export const ProjectCard = ({
       />
       <h3 className={styles.title}>{title}</h3>
       <p className={styles.description}>{description}</p>
+      <p className={styles.description}>{role}</p>
+
       <ul className={styles.skills}>
         {skills.map((skill, id) => {
           return (
