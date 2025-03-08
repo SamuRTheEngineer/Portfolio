@@ -71,17 +71,17 @@
 .link img {
   margin: -5px;
   position: absolute;
-  top: -25vh; /* Adjust to position above */
+  top: -25vh; 
   left: 50%;
   transform: translateX(-50%);
   width: 200%;
   border-radius: 10px;
-  opacity: 0; /* Initially hidden */
+  opacity: 0; 
   transition: opacity 0.3s ease-in-out;
-  pointer-events: none; /* Prevents accidental hover issues */
+  pointer-events: none;
   z-index: 999;
 }
 
 .link:hover img {
-  opacity: 1; /* Show image on hover */
+  opacity: 1;
 }
